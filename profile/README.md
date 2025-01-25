@@ -1,12 +1,8 @@
 # Fivem Script Lab
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fivemscriptlab@gmail.com)
 
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+[![Github](https://img.shields.io/github/followers/Fivem-Script-Lab?label=Follow&style=social)](https://github.com/Fivem-Script-Lab)
 
 Welcome to the official GitHub organization for FiveM Script Lab! We specialize in creating high-quality, innovative FiveM scripts to elevate your server experience. Explore our repositories for daily updates, new releases, and exciting scripts tailored for your FiveM community.
 
